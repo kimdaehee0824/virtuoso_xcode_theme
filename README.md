@@ -1,6 +1,7 @@
 # virtuoso_xcode_theme
 내가 쓰려고 만든 Xcode Theme
-사랑스러운 Xcode의 UserData가 갑자기 날아가는 이상한 버그가 생겨서 혹시 몰라 백업하는 래포입니다.
+
+사랑스러운 Xcode의 UserData가 갑자기 날아가는 이상한 버그가 생겨서 혹시 몰라 백업해놓았습니다.
 
 # Using
 1. `/Users/사용자이름/Library/Developer/Xcode/UserData/FontAndColorThemes/`
